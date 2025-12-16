@@ -1,0 +1,15 @@
+G:\C# projects\W2\D3\Hw3\Task4\bin\Debug\net9.0\Task4.exe
+G:\C# projects\W2\D3\Hw3\Task4\bin\Debug\net9.0\Task4.deps.json
+G:\C# projects\W2\D3\Hw3\Task4\bin\Debug\net9.0\Task4.runtimeconfig.json
+G:\C# projects\W2\D3\Hw3\Task4\bin\Debug\net9.0\Task4.dll
+G:\C# projects\W2\D3\Hw3\Task4\bin\Debug\net9.0\Task4.pdb
+G:\C# projects\W2\D3\Hw3\Task4\obj\Debug\net9.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# projects\W2\D3\Hw3\Task4\obj\Debug\net9.0\Task4.AssemblyInfoInputs.cache
+G:\C# projects\W2\D3\Hw3\Task4\obj\Debug\net9.0\Task4.AssemblyInfo.cs
+G:\C# projects\W2\D3\Hw3\Task4\obj\Debug\net9.0\Task4.csproj.CoreCompileInputs.cache
+G:\C# projects\W2\D3\Hw3\Task4\obj\Debug\net9.0\Task4.sourcelink.json
+G:\C# projects\W2\D3\Hw3\Task4\obj\Debug\net9.0\Task4.dll
+G:\C# projects\W2\D3\Hw3\Task4\obj\Debug\net9.0\refint\Task4.dll
+G:\C# projects\W2\D3\Hw3\Task4\obj\Debug\net9.0\Task4.pdb
+G:\C# projects\W2\D3\Hw3\Task4\obj\Debug\net9.0\Task4.genruntimeconfig.cache
+G:\C# projects\W2\D3\Hw3\Task4\obj\Debug\net9.0\ref\Task4.dll
